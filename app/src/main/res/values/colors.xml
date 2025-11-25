@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary Colors - Matching WebApp -->
+    <color name="primary">#3b82f6</color>
+    <color name="primary_dark">#1d4ed8</color>
+    <color name="primary_light">#60a5fa</color>
+    <color name="primary_variant">#1e40af</color>
+
+    <!-- Secondary Colors -->
+    <color name="secondary">#64748b</color>
+    <color name="secondary_light">#94a3b8</color>
+
+    <!-- Status Colors -->
+    <color name="success">#10b981</color>
+    <color name="success_dark">#059669</color>
+    <color name="danger">#ef4444</color>
+    <color name="danger_dark">#dc2626</color>
+    <color name="warning">#f59e0b</color>
+    <color name="warning_dark">#d97706</color>
+    <color name="info">#3b82f6</color>
+
+    <!-- Background Colors -->
+    <color name="bg_primary">#f8fafc</color>
+    <color name="bg_secondary">#f1f5f9</color>
+    <color name="bg_white">#ffffff</color>
+
+    <!-- Text Colors -->
+    <color name="text_primary">#1f2937</color>
+    <color name="text_secondary">#6b7280</color>
+    <color name="text_muted">#9ca3af</color>
+
+    <!-- Border Colors -->
+    <color name="border_color">#e5e7eb</color>
+    <color name="border_light">#f3f4f6</color>
+
+    <!-- Legacy Colors (for compatibility) -->
+    <color name="purple_200">#60a5fa</color>
+    <color name="purple_500">#3b82f6</color>
+    <color name="purple_700">#1d4ed8</color>
+    <color name="teal_200">#10b981</color>
+    <color name="teal_700">#059669</color>
+    <color name="black">#000000</color>
+    <color name="white">#ffffff</color>
+
+    <!-- Estados de cita -->
+    <color name="estado_pendiente">#f59e0b</color>
+    <color name="estado_confirmada">#3b82f6</color>
+    <color name="estado_atendida">#10b981</color>
+    <color name="estado_cancelada">#ef4444</color>
+</resources>

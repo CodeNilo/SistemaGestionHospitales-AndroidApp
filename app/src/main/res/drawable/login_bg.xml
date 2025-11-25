@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <bitmap
+            android:src="@drawable/login_bg_photo"
+            android:gravity="center"
+            android:tileMode="disabled" />
+    </item>
+    <item>
+        <shape android:shape="rectangle">
+            <gradient
+                android:startColor="#CC1e40af"
+                android:endColor="#CC3b82f6"
+                android:angle="135" />
+        </shape>
+    </item>
+</layer-list>
